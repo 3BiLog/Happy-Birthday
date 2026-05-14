@@ -43,10 +43,6 @@ Happy-Birthday/
  └── README.md
 ```
 
-## Screenshot
-
-Bạn có thể thêm ảnh ứng dụng tại đây.
-
 ## Tác giả
 
 GitHub: [https://github.com/3BiLog](https://github.com/3BiLog)
